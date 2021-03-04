@@ -100,6 +100,15 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        Button room = binding.Room;
+        room.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(that, RoomActivity.class);
+                startActivity(intent);
+            }
+        });
+
     }
 
 //    @Override
