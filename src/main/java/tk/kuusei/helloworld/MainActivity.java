@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     MainActivity that = this;
     ActivityMainBinding binding;
 
+
     TextView textView;
     GlobalViewModel myViewModel;
 
