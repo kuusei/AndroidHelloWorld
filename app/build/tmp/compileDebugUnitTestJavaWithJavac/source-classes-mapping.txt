@@ -1,2 +1,0 @@
-tk/kuusei/helloworld/ExampleUnitTest.java
- tk.kuusei.helloworld.ExampleUnitTest
