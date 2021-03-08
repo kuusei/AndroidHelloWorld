@@ -27,6 +27,7 @@ android {
         targetCompatibility JavaVersion.VERSION_1_8
     }
 
+    buildFeatures.viewBinding = true
     buildFeatures.dataBinding = true
 }
 
@@ -52,4 +53,6 @@ dependencies {
     annotationProcessor "androidx.room:room-compiler:$room_version"
     // optional - Test helpers
     testImplementation "androidx.room:room-testing:$room_version"
+
+    implementation 'com.google.code.gson:gson:2.8.6'
 }

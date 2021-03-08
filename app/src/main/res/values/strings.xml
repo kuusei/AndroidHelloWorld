@@ -1,29 +1,4 @@
 <resources>
     <string name="app_name">HelloWorld</string>
-    <string name="foo">HelloWorld</string>
-    <string name="app_version" translatable="false">1.0.1beta</string>
-    <string name="button_msg">login</string>
-    <string name="username_hint">username</string>
-    <string name="password_hint">password</string>
-    <string name="icon_msg">icon</string>
-    <string name="title_activity_controls" translatable="false">ControlsActivity</string>
-    <!--
-    This string is used for square devices and overridden by hello_world in
-    values-round/strings.xml for round devices.
-    -->
-    <string name="hello_world" translatable="false">Hello Square World!</string>
-    <!-- Strings used for fragments for navigation -->
-    <string name="first_fragment_label" translatable="false">First Fragment</string>
-    <string name="second_fragment_label" translatable="false">Second Fragment</string>
-    <string name="next" translatable="false">Next</string>
-    <string name="previous" translatable="false">Previous</string>
-
-    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
-    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
-    <string name="MY_DATA" translatable="false">my_data</string>
-    <string name="MY_KEY" translatable="false">my_key</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
-    <string name="title_activity_nav" translatable="false">NavActivity</string>
-    <string name="title_activity_main2" translatable="false">MainActivity2</string>
+    <string name="arrow"><![CDATA[<]]></string>
 </resources>
