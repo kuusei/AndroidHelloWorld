@@ -14,6 +14,5 @@ public class Day1Activity extends AppCompatActivity {
         setContentView(R.layout.activity_day1);
 
         findViewById(R.id.day1_back).setOnClickListener(v -> onBackPressed());
-
     }
 }
